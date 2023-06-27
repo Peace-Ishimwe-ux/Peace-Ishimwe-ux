@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning International Business and Trade
 - 💞️ I’m looking to collaborate on Coding lessons
-- 📫 How to reach me 
+- 📫 How to reach me comment on my codes
 
 <!---
 Peace-Ishimwe-ux/Peace-Ishimwe-ux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
